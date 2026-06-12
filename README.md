@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Swagata pal</h1>
 <h3 align="center">A passionate frontend, backcend developer and Uiux/Graphic Designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagata2004&label=Profile%20views&color=0e75b6&style=flat" alt="swagata2004" /> </p>
+<p align="left"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swagata2004" alt="swagata2004" /></a> </p>
+<p align="left"> <a href="https://github.com/Swagata2004"><img src="https://github-profile-trophy.vercel.app/?username=swagata2004" alt="swagata2004" /></a> </p>
 
 - 🔭 I’m currently working on [React-wolf](http://localhost:5173)
 
