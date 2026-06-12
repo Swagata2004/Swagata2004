@@ -1,10 +1,10 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Swagata pal</h1>
-<h3 align="center">A passionate frontend, backcend developer and Uiux/Graphic Designer from India</h3>
+<h3 align="center">A passionate Frontend, backcend developer and UiUx/Graphic Designer from India</h3>
 
-<p align="left"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" /> </p>
+<p align="left"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" width="300" height="300" /> </p>
 
-<p align="left"> <a href="https://github.com/Swagata2004"><img src="https://github-profile-trophy.vercel.app/?username=swagata2004" alt="swagata2004" /></a> </p>
+<p align="left"> <a href="https://github.com/Swagata2004"><img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3 "username=swagata2004 alt="swagata2004" width="300" height="300"/></a> </p>
 
 - 🔭 I’m currently working on [React-wolf](http://localhost:5173)
 
