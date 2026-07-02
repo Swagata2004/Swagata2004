@@ -14,6 +14,7 @@
 
 <p align="left"> <a href="https://github.com/Swagata2004"><img src="https://github-profile-trophy.vercel.app/?username=swagata2004"username=swagata2004 alt="swagata2004" /></a> </p>
 
+ ## 🔭 Quick info
 - 🔭 I’m currently working on [React-wolf](http://localhost:5173)
 
 - 🌱 I’m currently learning **Threejs,Redux,React**
