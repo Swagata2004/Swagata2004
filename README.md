@@ -1,6 +1,14 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Swagata pal</h1>
-<h3 align="center">A passionate Frontend, backcend developer and UiUx/Graphic Designer from India</h3>
+
+<p align="center">
+  <!-- Animated typing title -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Swagata+Pal;Software+Engineer+%E2%9A%80%EF%B8%8F+Creator+%7C+Java+%7C+React+%7C+TypeScript" alt="typing">
+</p>
+
+<p align="center">
+  <!-- Neon style small subtitle -->
+  <em style="color:#9BE7FF">A passionate Frontend, backcend developer and UiUx/Graphic Designer from India</em>
+</p>
 
 <p align="left"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" width="200" height="200" /> </p>
 
