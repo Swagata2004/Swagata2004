@@ -45,14 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagata2004&show_icons=true&locale=en" alt="swagata2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagata2004&" alt="swagata2004" /></p>
----
-
-## ✨ Live / Dynamic Widgets
-- Contribution Heatmap:  
-  <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contrib-snake"/></p>
-
-- WakaTime (coding activity) — *add your WakaTime username below if you use it*  
-  `![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)`
 
 <!--
 **Swagata2004/Swagata2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
