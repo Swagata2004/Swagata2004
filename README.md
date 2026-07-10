@@ -46,6 +46,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagata2004&" alt="swagata2004" /></p>
 
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sayan650&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 ## ✨ Live / Dynamic Widgets
