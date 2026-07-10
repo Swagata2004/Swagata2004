@@ -10,7 +10,7 @@
   <em style="color:#9BE7FF">A passionate Frontend, backcend developer and UiUx/Graphic Designer from India</em>
 </p>
 
-<p align="left"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" width="200" height="200" /> </p>
+<p align="center"> <img src="https://tse2.mm.bing.net/th/id/OIP.iHgTeZrvwkBHWuiVscmMBQHaHa?cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="swagata2004" width="200" height="200" /> </p>
 
 <p align="left"> <a href="https://github.com/Swagata2004"><img src="https://github-profile-trophy.vercel.app/?username=swagata2004"username=swagata2004 alt="swagata2004" /></a> </p>
 
